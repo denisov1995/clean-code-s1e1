@@ -125,6 +125,7 @@ li {
     justify-content: space-between;
     align-items: center;
 }
+
 li > * {
     vertical-align: middle;
 }
